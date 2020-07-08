@@ -3,9 +3,9 @@ module.exports = {
     title: `Allanisms`,
     author: {
       name: `Allan`,
-      summary: `A person who just wants to share what he's interested in with the internet`,
+      summary: ``,
     },
-    description: `A simple blog to do simple things`,
+    description: ``,
     siteUrl: `https://www.allanisms.com`,
     social: {
       twitter: `allanismsblog`,
@@ -63,8 +63,8 @@ module.exports = {
         name: `Allanisms`,
         short_name: `allanisms`,
         start_url: `/`,
-        background_color: `#d8d8d8`,
-        theme_color: `#663399`,
+        background_color: `#7FB7BE`,
+        theme_color: `#1B1725`,
         display: `minimal-ui`,
         icon: `content/assets/profile-pic.png`,
       },
