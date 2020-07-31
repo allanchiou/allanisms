@@ -1,10 +1,10 @@
 ---
 title: Hawaiian Garlic Shrimp
 date: "2020-07-30T00:00:00.000Z"
-description: "A recipe for garlic shrimp. A North Shore favorite."
+description: "A recipe for garlic shrimp."
 ---
 
-> Here's a recipe inspired by 'A Taste of Aloha: A Collection of Recipes from the Junior League of Honolulu' a book put together in 1983 to raise money for the Junior League. This is a dish served cold.
+> Here's a recipe inspired by 'A Taste of Aloha: A Collection of Recipes from the Junior League of Honolulu,' a book put together in 1983 to raise money for the Junior League. This is a dish served cold. Also, while I say this is Hawaiian, this is probably better described as a home recipe from an all-American mom. 
 
 ## Ingredients 
 
@@ -24,6 +24,6 @@ description: "A recipe for garlic shrimp. A North Shore favorite."
 
 Cook cleaned shrimp in boiling salted water for 5 to 10 minutes or until bright pink and cooked through. Once cooked, take the shrimp out of the water and rinse under cold water to stop the cooking process. 
 
-Mix the marinade ingredients together. Marinate the cooled shrimp in marinade. 
+Mix the marinade ingredients. Marinate the cooled shrimp in marinade. 
 
 Cover and refrigerate for 24 hours. Stir every 12 hours. 
