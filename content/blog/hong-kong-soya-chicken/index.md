@@ -17,10 +17,10 @@ description: "A recipe for HK style Soya Chicken"
 ### Braise
     - 3/4 cup           | Light Soy Sauce
     - 1/4 cup           | Dark Soy Sauce
-    - 3 cups            | Water | or enough to cover halfway up the thigh
-    - 3 tablespoons     | Shao Xing wine | If none available, substitute dry sherry, cooking sake, or mirin
-    - 2 tablespoons     | Rock Sugar | brown sugar is fine, adjust to taste as it is less concentrated
-    - 1 pinch           | White Pepper | a pinch will do, adjust to taste
+    - 3 cups            | Water | enough to cover halfway up the thigh
+    - 3 tablespoons     | Chinese Rose cooking wine (玫瑰露酒) 
+    - 2 tablespoons     | Rock Sugar 
+    - 1 pinch           | White Pepper 
 
 ### Other
     - 1 tablespoon      | Cooking Oil
@@ -31,4 +31,12 @@ Heat a pot with with cooking oil and stir fry the garlic, ginger, and green onio
 
 Add dark and light soy sauce along with the water. Bring to boil
 
-Add C
+Add Chinese rose cooking wine, rock sugar, and the white pepper. Lower heat to a simmer and simmer for 10 minutes. 
+
+Add chicken thighs into the braising liquid. Ensure the liquid reaches at least halfway up the thigh. This will depend on pot size, number of thighs, etc. Add additional water if needed. Adjust temperature to medium simmer. Cook for 25 to 35 minutes or until cooked through and internal temperature reaches 165°F (~74°C).
+
+### Notes
+
+Chinese Rose cooking wine substitute - Shaoxing cooking wine, dry sherry, cooking sake, or mirin. 
+
+Rock Sugar - Brown sugar is okay, but you will likely need to adjust to taste
