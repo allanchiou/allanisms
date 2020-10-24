@@ -8,7 +8,7 @@ description: "A recipe for garlic shrimp."
 
 ## Ingredients 
 
-    - Large Shrimp | 3 pounds | peeled and deveined 
+    - 3 pounds | Large Shrimp | peeled and deveined 
 
 ## Marinade
 
